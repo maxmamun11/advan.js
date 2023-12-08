@@ -32,6 +32,5 @@ function loginUserMessage(username = "sam") {
     return `${username} just logged in`
 }
 
-console.log(loginUserMessage())
-
+console.log(loginUserMessag
 
